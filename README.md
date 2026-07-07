@@ -28,7 +28,7 @@
 
 | mode | notes |
 | --- | --- |
-| editor | Cursor / Codex |
+| editor | Claude Code / Codex |
 | habit | clean commits |
 | style | simple interfaces |
 
