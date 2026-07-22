@@ -24,16 +24,6 @@
 
 ---
 
-### Bits
-
-| mode | notes |
-| --- | --- |
-| editor | Claude Code / Codex |
-| habit | clean commits |
-| style | simple interfaces |
-
----
-
 ### Contact
 
 [uc205290@connect.hku.hk](mailto:uc205290@connect.hku.hk)
